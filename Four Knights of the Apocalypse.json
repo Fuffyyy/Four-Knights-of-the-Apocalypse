@@ -26,7 +26,7 @@
       "volume": "",
       "last_updated": "1738626566",
       "groups": {
-        "": "https://imgur.com/a/four-knights-of-apocalypse-chapter-122-PFbKLsF"
+        "": "/proxy/api/imgur/chapter/PFbKLsF"
       }
     },
     "123": {
@@ -34,7 +34,7 @@
       "volume": "",
       "last_updated": "1738626592",
       "groups": {
-        "": "https://imgur.com/a/four-knights-of-apocalypse-chapter-123-nMThPPF"
+        "": "/proxy/api/imgur/chapter/nMThPPF"
       }
     },
     "124": {
@@ -42,7 +42,7 @@
       "volume": "",
       "last_updated": "1738626604",
       "groups": {
-        "": "https://imgur.com/a/four-knights-of-apocalypse-chapter-124-HgNFJ2N"
+        "": "/proxy/api/imgur/chapter/HgNFJ2N"
       }
     }
   }
