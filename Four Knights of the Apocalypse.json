@@ -1,0 +1,25 @@
+{
+  "title": "Four Knights of the Apocalypse",
+  "description": ":D",
+  "artist": "Suzuki Nakaba",
+  "author": "Suzuki Nakaba",
+  "cover": "https://mangadex.org/covers/34019331-7377-4e2c-837e-f6e1ab2b5ef7/c2b216d3-ac13-43bd-a5f8-0e0c3ca27e40.jpg",
+  "chapters": {
+    "120": {
+      "title": "120",
+      "volume": "",
+      "last_updated": "1738626371",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pbUbM0W"
+      }
+    },
+    "121": {
+      "title": "121",
+      "volume": "",
+      "last_updated": "1738626427",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2j4FqOl"
+      }
+    }
+  }
+}
