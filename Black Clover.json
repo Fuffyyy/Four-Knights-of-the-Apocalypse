@@ -1,0 +1,881 @@
+{
+  "title": "Black Clover",
+  "description": "",
+  "artist": "Tabata Yuuki",
+  "author": "Tabata Yuuki",
+  "cover": "https://mangadex.org/covers/e7eabe96-aa17-476f-b431-2497d5e9d060/a8ce3755-86ae-428a-af1b-9f283ab3ae83.jpg",
+  "chapters": {
+    "270": {
+      "title": "270",
+      "volume": "",
+      "last_updated": "1738878722",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2iXA8z5"
+      }
+    },
+    "271": {
+      "title": "271",
+      "volume": "",
+      "last_updated": "1738878803",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/blASOtE"
+      }
+    },
+    "272": {
+      "title": "272",
+      "volume": "",
+      "last_updated": "1738878889",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4WD75js"
+      }
+    },
+    "273": {
+      "title": "273",
+      "volume": "",
+      "last_updated": "1738878959",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Yq6hKPa"
+      }
+    },
+    "274": {
+      "title": "274",
+      "volume": "",
+      "last_updated": "1738879053",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kQEm1ii"
+      }
+    },
+    "275": {
+      "title": "275",
+      "volume": "",
+      "last_updated": "1738879147",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6OAZ2r5"
+      }
+    },
+    "276": {
+      "title": "276",
+      "volume": "",
+      "last_updated": "1738879211",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5BwIcZs"
+      }
+    },
+    "277": {
+      "title": "277",
+      "volume": "",
+      "last_updated": "1738879299",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FSaSeEu"
+      }
+    },
+    "278": {
+      "title": "278",
+      "volume": "",
+      "last_updated": "1738879375",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nHJQgJt"
+      }
+    },
+    "279": {
+      "title": "279",
+      "volume": "",
+      "last_updated": "1738879507",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cjmL4P3"
+      }
+    },
+    "280": {
+      "title": "280",
+      "volume": "",
+      "last_updated": "1738879598",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/OgK2Pzc"
+      }
+    },
+    "281": {
+      "title": "281",
+      "volume": "",
+      "last_updated": "1738879663",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/poDrPPf"
+      }
+    },
+    "282": {
+      "title": "282",
+      "volume": "",
+      "last_updated": "1738879767",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5T460br"
+      }
+    },
+    "283": {
+      "title": "283",
+      "volume": "",
+      "last_updated": "1738879870",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PxugpVC"
+      }
+    },
+    "284": {
+      "title": "284",
+      "volume": "",
+      "last_updated": "1738880022",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FqM8093"
+      }
+    },
+    "285": {
+      "title": "285",
+      "volume": "",
+      "last_updated": "1738880106",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/J2CcUZq"
+      }
+    },
+    "286": {
+      "title": "286",
+      "volume": "",
+      "last_updated": "1738880174",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ug6Dczt"
+      }
+    },
+    "287": {
+      "title": "287",
+      "volume": "",
+      "last_updated": "1738880257",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/VmokgmN"
+      }
+    },
+    "288": {
+      "title": "288",
+      "volume": "",
+      "last_updated": "1738880373",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ye2zx3a"
+      }
+    },
+    "289": {
+      "title": "289",
+      "volume": "",
+      "last_updated": "1738880439",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vpAZB1i"
+      }
+    },
+    "290": {
+      "title": "290",
+      "volume": "",
+      "last_updated": "1738880604",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qrumSQY"
+      }
+    },
+    "291": {
+      "title": "291",
+      "volume": "",
+      "last_updated": "1738880688",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cbz08JZ"
+      }
+    },
+    "292": {
+      "title": "292",
+      "volume": "",
+      "last_updated": "1738880811",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QN58R9K"
+      }
+    },
+    "293": {
+      "title": "293",
+      "volume": "",
+      "last_updated": "1738880925",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uLUpFZW"
+      }
+    },
+    "294": {
+      "title": "294",
+      "volume": "",
+      "last_updated": "1738880987",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ipRJlc4"
+      }
+    },
+    "295": {
+      "title": "295",
+      "volume": "",
+      "last_updated": "1738881120",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8lSgo2N"
+      }
+    },
+    "296": {
+      "title": "296",
+      "volume": "",
+      "last_updated": "1738881273",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PvsEO2w"
+      }
+    },
+    "297": {
+      "title": "297",
+      "volume": "",
+      "last_updated": "1738881368",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DOKEye3"
+      }
+    },
+    "298": {
+      "title": "298",
+      "volume": "",
+      "last_updated": "1738881517",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Va4XwxA"
+      }
+    },
+    "299": {
+      "title": "299",
+      "volume": "",
+      "last_updated": "1738881590",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MpXdWxq"
+      }
+    },
+    "300": {
+      "title": "300",
+      "volume": "",
+      "last_updated": "1738881680",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/n7daatS"
+      }
+    },
+    "301": {
+      "title": "301",
+      "volume": "",
+      "last_updated": "1738881761",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EdiGtaM"
+      }
+    },
+    "302": {
+      "title": "302",
+      "volume": "",
+      "last_updated": "1738881871",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4sb0Ikh"
+      }
+    },
+    "303": {
+      "title": "303",
+      "volume": "",
+      "last_updated": "1738881961",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qqTVK6C"
+      }
+    },
+    "304": {
+      "title": "304",
+      "volume": "",
+      "last_updated": "1738882128",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/47qFZPR"
+      }
+    },
+    "305": {
+      "title": "305",
+      "volume": "",
+      "last_updated": "1738882257",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CxVXd5R"
+      }
+    },
+    "306": {
+      "title": "306",
+      "volume": "",
+      "last_updated": "1738882533",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hPoi0JC"
+      }
+    },
+    "307": {
+      "title": "307",
+      "volume": "",
+      "last_updated": "1738882656",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2W2Yc61"
+      }
+    },
+    "308": {
+      "title": "308",
+      "volume": "",
+      "last_updated": "1738882709",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jAU6373"
+      }
+    },
+    "309": {
+      "title": "309",
+      "volume": "",
+      "last_updated": "1738882760",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mGBQ9wS"
+      }
+    },
+    "310": {
+      "title": "310",
+      "volume": "",
+      "last_updated": "1738882825",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ulBqQsa"
+      }
+    },
+    "311": {
+      "title": "311",
+      "volume": "",
+      "last_updated": "1738882900",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uaArxBj"
+      }
+    },
+    "312": {
+      "title": "312",
+      "volume": "",
+      "last_updated": "1738882961",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TAg8qTA"
+      }
+    },
+    "313": {
+      "title": "313",
+      "volume": "",
+      "last_updated": "1738883030",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dfawbLu"
+      }
+    },
+    "314": {
+      "title": "314",
+      "volume": "",
+      "last_updated": "1738883099",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/n1tFqeU"
+      }
+    },
+    "315": {
+      "title": "315",
+      "volume": "",
+      "last_updated": "1738883185",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nLWdNuV"
+      }
+    },
+    "316": {
+      "title": "316",
+      "volume": "",
+      "last_updated": "1738883274",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dmUoo2R"
+      }
+    },
+    "317": {
+      "title": "317",
+      "volume": "",
+      "last_updated": "1738883353",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RXLHzYU"
+      }
+    },
+    "318": {
+      "title": "318",
+      "volume": "",
+      "last_updated": "1738883454",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/B6usIiD"
+      }
+    },
+    "319": {
+      "title": "319",
+      "volume": "",
+      "last_updated": "1738883552",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yTpIWs3"
+      }
+    },
+    "320": {
+      "title": "320",
+      "volume": "",
+      "last_updated": "1738883654",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Xp5h3TG"
+      }
+    },
+    "321": {
+      "title": "321",
+      "volume": "",
+      "last_updated": "1738883843",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/oyKo4kJ"
+      }
+    },
+    "322": {
+      "title": "322",
+      "volume": "",
+      "last_updated": "1738883969",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9DgPbHY"
+      }
+    },
+    "323": {
+      "title": "323",
+      "volume": "",
+      "last_updated": "1738884102",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yOzrt8q"
+      }
+    },
+    "324": {
+      "title": "324",
+      "volume": "",
+      "last_updated": "1738884174",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AIRuAZR"
+      }
+    },
+    "325": {
+      "title": "325",
+      "volume": "",
+      "last_updated": "1738884409",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/gaer99b"
+      }
+    },
+    "326": {
+      "title": "326",
+      "volume": "",
+      "last_updated": "1738884476",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7wHHUX5"
+      }
+    },
+    "327": {
+      "title": "327",
+      "volume": "",
+      "last_updated": "1738884561",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Wjljice"
+      }
+    },
+    "328": {
+      "title": "328",
+      "volume": "",
+      "last_updated": "1738884720",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qSV13Xo"
+      }
+    },
+    "329": {
+      "title": "329",
+      "volume": "",
+      "last_updated": "1738884790",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DoCtfmQ"
+      }
+    },
+    "330": {
+      "title": "330",
+      "volume": "",
+      "last_updated": "1738885007",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/VcstzZm"
+      }
+    },
+    "331": {
+      "title": "331",
+      "volume": "",
+      "last_updated": "1738885091",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/UYBuQvy"
+      }
+    },
+    "332": {
+      "title": "332",
+      "volume": "",
+      "last_updated": "1738885314",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vmBVQKN"
+      }
+    },
+    "333": {
+      "title": "333",
+      "volume": "",
+      "last_updated": "1738885409",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Qh9qBm5"
+      }
+    },
+    "334": {
+      "title": "334",
+      "volume": "",
+      "last_updated": "1738885524",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Fw8xBSP"
+      }
+    },
+    "335": {
+      "title": "335",
+      "volume": "",
+      "last_updated": "1738885621",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/c2jvhjX"
+      }
+    },
+    "336": {
+      "title": "336",
+      "volume": "",
+      "last_updated": "1738885725",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/waN3NMu"
+      }
+    },
+    "337": {
+      "title": "337",
+      "volume": "",
+      "last_updated": "1738885869",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/SRzHxQa"
+      }
+    },
+    "338": {
+      "title": "338",
+      "volume": "",
+      "last_updated": "1738885967",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TRNcQdH"
+      }
+    },
+    "339": {
+      "title": "339",
+      "volume": "",
+      "last_updated": "1738886097",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/iyR6NLb"
+      }
+    },
+    "340": {
+      "title": "340",
+      "volume": "",
+      "last_updated": "1738886196",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/REqJZfS"
+      }
+    },
+    "341": {
+      "title": "341",
+      "volume": "",
+      "last_updated": "1738886299",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nU4Nlyi"
+      }
+    },
+    "342": {
+      "title": "342",
+      "volume": "",
+      "last_updated": "1738886383",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EV8hm5o"
+      }
+    },
+    "343": {
+      "title": "343",
+      "volume": "",
+      "last_updated": "1738886485",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pVRY3wz"
+      }
+    },
+    "344": {
+      "title": "344",
+      "volume": "",
+      "last_updated": "1738886567",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/udUhzCl"
+      }
+    },
+    "345": {
+      "title": "345",
+      "volume": "",
+      "last_updated": "1738886670",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ofwDIaF"
+      }
+    },
+    "346": {
+      "title": "346",
+      "volume": "",
+      "last_updated": "1738886749",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LDVQTsu"
+      }
+    },
+    "347": {
+      "title": "347",
+      "volume": "",
+      "last_updated": "1738886871",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Nr0WNaM"
+      }
+    },
+    "348": {
+      "title": "348",
+      "volume": "",
+      "last_updated": "1738886995",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lLfLpM0"
+      }
+    },
+    "349": {
+      "title": "349",
+      "volume": "",
+      "last_updated": "1738887078",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kWlXKE4"
+      }
+    },
+    "350": {
+      "title": "350",
+      "volume": "",
+      "last_updated": "1738887159",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fszTa9W"
+      }
+    },
+    "351": {
+      "title": "351",
+      "volume": "",
+      "last_updated": "1738887245",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BFQVmHJ"
+      }
+    },
+    "352": {
+      "title": "352",
+      "volume": "",
+      "last_updated": "1738887307",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LqNujfE"
+      }
+    },
+    "353": {
+      "title": "353",
+      "volume": "",
+      "last_updated": "1738887402",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jpsRBIz"
+      }
+    },
+    "354": {
+      "title": "354",
+      "volume": "",
+      "last_updated": "1738887505",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CdKCqBu"
+      }
+    },
+    "355": {
+      "title": "355",
+      "volume": "",
+      "last_updated": "1738887593",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jBWsL7V"
+      }
+    },
+    "356": {
+      "title": "356",
+      "volume": "",
+      "last_updated": "1738887671",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/zrFbfgT"
+      }
+    },
+    "357": {
+      "title": "357",
+      "volume": "",
+      "last_updated": "1738887745",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/WVGOjN9"
+      }
+    },
+    "358": {
+      "title": "358",
+      "volume": "",
+      "last_updated": "1738887827",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/If7f6df"
+      }
+    },
+    "359": {
+      "title": "359",
+      "volume": "",
+      "last_updated": "1738887892",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/sXJphu3"
+      }
+    },
+    "360": {
+      "title": "360",
+      "volume": "",
+      "last_updated": "1738887959",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8MqWMWM"
+      }
+    },
+    "361": {
+      "title": "361",
+      "volume": "",
+      "last_updated": "1738888026",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/34KpZIx"
+      }
+    },
+    "362": {
+      "title": "362",
+      "volume": "",
+      "last_updated": "1738888096",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8R0HGQF"
+      }
+    },
+    "363": {
+      "title": "363",
+      "volume": "",
+      "last_updated": "1738888249",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/duim6w3"
+      }
+    },
+    "364": {
+      "title": "364",
+      "volume": "",
+      "last_updated": "1738888311",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/iNUEApW"
+      }
+    },
+    "365": {
+      "title": "365",
+      "volume": "",
+      "last_updated": "1738888391",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CJJ54E9"
+      }
+    },
+    "366": {
+      "title": "366",
+      "volume": "",
+      "last_updated": "1738888462",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EyXEQMn"
+      }
+    },
+    "367": {
+      "title": "367",
+      "volume": "",
+      "last_updated": "1738888544",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dpJgZo5"
+      }
+    },
+    "368": {
+      "title": "368",
+      "volume": "",
+      "last_updated": "1738888617",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0DbD9AD"
+      }
+    },
+    "369": {
+      "title": "369",
+      "volume": "",
+      "last_updated": "1738888757",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/sJQK2oa"
+      }
+    },
+    "370": {
+      "title": "370",
+      "volume": "",
+      "last_updated": "1738888826",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/E80lVgq"
+      }
+    },
+    "371": {
+      "title": "371",
+      "volume": "",
+      "last_updated": "1738888957",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QBdINLB"
+      }
+    },
+    "372": {
+      "title": "372",
+      "volume": "",
+      "last_updated": "1738889074",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/zWt3qI3"
+      }
+    },
+    "373": {
+      "title": "373",
+      "volume": "",
+      "last_updated": "1738889160",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/av8Wrt8"
+      }
+    },
+    "374": {
+      "title": "374",
+      "volume": "",
+      "last_updated": "1738889294",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QswWQ7r"
+      }
+    },
+    "375": {
+      "title": "375",
+      "volume": "",
+      "last_updated": "1738889402",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QoqTO9A"
+      }
+    },
+    "376": {
+      "title": "376",
+      "volume": "",
+      "last_updated": "1738889481",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BagW44J"
+      }
+    },
+    "377": {
+      "title": "377",
+      "volume": "",
+      "last_updated": "1738889587",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uDCruAr"
+      }
+    },
+    "378": {
+      "title": "378",
+      "volume": "",
+      "last_updated": "1738889668",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/aCxuZYS"
+      }
+    }
+  }
+}
